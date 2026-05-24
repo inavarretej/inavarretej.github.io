@@ -70,7 +70,19 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "teachings-data-science-fundamentals",
+            },},{id: "news-i-started-my-phd-at-the-laboratoire-de-géologie-école-normale-supérieure-psl-as-part-of-the-talents-doctoral-network-excited-to-begin-working-on-lithospheric-dynamics-and-continental-rifting",
+          title: 'I started my PhD at the Laboratoire de Géologie, École Normale Supérieure -...',
+          description: "",
+          section: "News",},{id: "news-headed-to-tanzania-alongside-prof-eric-calais-to-deploy-and-maintain-gnss-gps-stations-around-the-natron-basin-supported-by-dr-elifuraha-saria-ardhi-university-and-valerie-mackie-we-reassessed-velocities-of-crucial-tectonic-points-high-precision-geodetic-data-essential-for-quantifying-active-crustal-deformation-and-rifting-rates-in-the-east-african-rift",
+          title: 'Headed to Tanzania alongside Prof. Eric Calais to deploy and maintain GNSS/GPS stations...',
+          description: "",
+          section: "News",},{id: "news-presenting-new-results-on-strain-partitioning-in-the-natron-basin-at-egu-general-assembly-2026-combining-gnss-geodesy-and-seismic-moment-rates-to-investigate-aseismic-deformation-in-the-east-african-rift",
+          title: 'Presenting new results on strain partitioning in the Natron Basin at EGU General...',
+          description: "",
+          section: "News",},{id: "news-received-the-outstanding-student-and-phd-candidate-presentation-ospp-award-at-egu-general-assembly-2026-for-my-poster-presented-at-egu-2025-on-inter-event-strain-localization-in-the-natron-basin-east-african-rift",
+          title: 'Received the Outstanding Student and PhD candidate Presentation (OSPP) Award at EGU General...',
+          description: "",
+          section: "News",},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
           section: "Teachings",handler: () => {
@@ -81,46 +93,25 @@ ninja.data = [{
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
-        id: 'social-cv',
-        title: 'CV',
-        section: 'Socials',
-        handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
-        },
-      },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("mailto:%69%76%61%6E.%6E%61%76%61%72%72%65%74%65@%65%6E%73.%70%73%6C.%65%75", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=B9_69MYAAAAJ", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-orcid',
+        title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://orcid.org/0009-0004-9272-511X", "_blank");
         },
       },{
       id: 'light-theme',
