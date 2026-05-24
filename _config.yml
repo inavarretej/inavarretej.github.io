@@ -51,6 +51,7 @@ external_services:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 github_user: inavarretej
+orcid_id: 0009-0004-9272-511X
 # -----------------------------------------------------------------------------
 # Layout
 # -----------------------------------------------------------------------------
