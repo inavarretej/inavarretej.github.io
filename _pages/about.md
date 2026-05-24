@@ -13,6 +13,10 @@ profile:
   more_info: >
     <p>Paris, France</p>
 
+announcements:
+  enabled: true
+  scrollable: true
+  limit: 5
 selected_papers: true
 social: true
 ---
