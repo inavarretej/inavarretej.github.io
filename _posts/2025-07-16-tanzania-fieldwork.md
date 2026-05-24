@@ -5,7 +5,6 @@ date: 2025-07-16 00:00:00
 description: Two weeks in the Natron Basin deploying and maintaining GNSS stations to capture present-day crustal deformation.
 tags: fieldwork geodesy East-African-Rift Tanzania GNSS
 categories: research
-thumbnail: assets/img/tanzania/cover.jpg # replace with your cover photo
 ---
 
 In July 2025, I had the chance to join Prof. Eric Calais for a two-week field campaign in northern Tanzania — one of those rare opportunities where the data you collect ends up directly feeding your PhD thesis.
@@ -16,7 +15,8 @@ The [Natron Basin](https://en.wikipedia.org/wiki/Lake_Natron) sits in the easter
 
 My research focuses on how deformation accumulates between major rifting events. To quantify this, we need precise measurements of how the ground is moving — and that is exactly what GNSS (Global Navigation Satellite System) stations provide.
 
-{% include figure.liquid loading="eager" path="assets/img/tanzania/placeholder1.jpg" caption="[Caption: describe what is shown in the photo]" class="img-fluid rounded z-depth-1" %}
+<!-- PHOTO 1: Add a landscape or overview shot of the Natron Basin -->
+<!-- {% include figure.liquid loading="eager" path="assets/img/tanzania/photo1.jpg" caption="Your caption here" class="img-fluid rounded z-depth-1" %} -->
 
 ## The Campaign
 
@@ -24,7 +24,8 @@ From **July 16 to 30**, our team deployed and maintained a network of campaign G
 
 [Add a few sentences about the day-to-day experience — driving across the basin, setting up stations, challenges encountered, landscapes, wildlife, etc.]
 
-{% include figure.liquid loading="eager" path="assets/img/tanzania/placeholder2.jpg" caption="[Caption: setting up a GNSS station / driving through the basin / the team]" class="img-fluid rounded z-depth-1" %}
+<!-- PHOTO 2: Add a photo of the team setting up a GNSS station -->
+<!-- {% include figure.liquid loading="eager" path="assets/img/tanzania/photo2.jpg" caption="Your caption here" class="img-fluid rounded z-depth-1" %} -->
 
 ## What We Measured
 
@@ -34,7 +35,8 @@ By comparing these geodetic velocities with seismic moment rates derived from ea
 
 [Add any specific observation or highlight from the data collection that you found interesting or surprising.]
 
-{% include figure.liquid loading="eager" path="assets/img/tanzania/placeholder3.jpg" caption="[Caption: Lake Natron / the landscape / a GPS monument]" class="img-fluid rounded z-depth-1" %}
+<!-- PHOTO 3: Add a photo of Lake Natron, the landscape, or a GPS monument -->
+<!-- {% include figure.liquid loading="eager" path="assets/img/tanzania/photo3.jpg" caption="Your caption here" class="img-fluid rounded z-depth-1" %} -->
 
 ## Beyond the Science
 
