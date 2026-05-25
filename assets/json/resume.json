@@ -4,8 +4,7 @@
     "label": "PhD Researcher in Geosciences",
     "image": "",
     "email": "ivan.navarrete@ens.psl.eu",
-    "phone": "",
-    "summary": "PhD researcher specializing in lithospheric modeling and geodetic data interpretation. Experience in numerical modeling, InSAR data processing, and machine learning applied to Earth sciences and satellite imagery.",
+    "summary": "TALENTS/Marie Skłodowska-Curie Doctoral Network fellow at ENS Paris-PSL, investigating the mechanical evolution of continental rifts. Combines numerical modeling, GNSS geodesy, and seismic moment analysis to study strain partitioning and fault mechanics in the East African Rift. Contributing developer of JustRelax.jl and background in Mathematical Civil Engineering.",
     "location": {
       "address": "Laboratoire de Géologie, Bureau E234",
       "postalCode": "75005",
@@ -25,8 +24,8 @@
       "endDate": "",
       "summary": "Thesis: Current stress distribution in active rifts from space geodetic measurements. Supervised by Jean-Arthur Olive (CNRS), Eric Calais (ENS-PSL), and Derek Keir (University of Florence).",
       "highlights": [
-        "Development and calibration of numerical models for lithospheric dynamics.",
-        "Processing and analysis of InSAR data for tectonic and volcanic processes.",
+        "Development and calibration of mechanical models for visco-elasto-viscoplastic lithospheric dynamics, investigating inter-event strain localization controlled by background stress heterogeneity in continental rifts.",
+        "Comparative analysis of geodetic and seismic moment rates to quantify aseismic deformation and seismic coupling of rift normal faults.",
         "GNSS campaign data analysis for present-day deformation in the Natron Basin, East African Rift."
       ]
     },
@@ -102,25 +101,21 @@
   "skills": [
     {
       "name": "Numerical Modeling",
-      "level": "",
       "icon": "fa-solid fa-calculator",
-      "keywords": ["FEM", "BEM", "Pseudo-Transient Methods", "Thermo-mechanical modeling"]
+      "keywords": ["FEM", "BEM", "Pseudo-Transient Methods", "Mechanical modeling"]
     },
     {
       "name": "Programming",
-      "level": "",
       "icon": "fa-solid fa-code",
       "keywords": ["Python", "Julia", "R", "SQL"]
     },
     {
       "name": "Data Analysis",
-      "level": "",
       "icon": "fa-solid fa-chart-line",
-      "keywords": ["Machine Learning", "InSAR processing", "GNSS analysis", "Statistics"]
+      "keywords": ["Machine Learning", "GNSS analysis", "Statistics"]
     },
     {
       "name": "Tools & Deployment",
-      "level": "",
       "icon": "fa-solid fa-wrench",
       "keywords": ["Docker", "GitHub", "Airflow"]
     }
