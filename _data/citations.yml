@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-03'
+  last_updated: '2026-07-08'
 papers:
   B9_69MYAAAAJ:2osOgNQ5qMEC:
     citations: 0
     title: 'Resolving millimeter-scale tectonic deformation in decade-long InSAR time series: from long-term rifting to slow-slip events'
     year: '2026'
   B9_69MYAAAAJ:IjCSPb-OGe4C:
-    citations: 0
+    citations: 1
     title: 'JustRelax. jl: A Julia package for geodynamic modeling with matrix-free solvers'
     year: '2026'
   B9_69MYAAAAJ:qjMakFHDy7sC:
